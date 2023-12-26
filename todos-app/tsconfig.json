@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "node_modules/@prici"
+  ]
+}
